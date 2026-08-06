@@ -8,6 +8,10 @@ The system recommends the top 5 movies similar to a selected movie using **TF-ID
 
 [🚀 Live Demo](https://movie-recommendation-system-as.streamlit.app/)
 
+## 📸 Application Screenshot
+
+![Movie Recommendation System](app-screenshot.png)
+
 ## 🚀 Features
 
 * Select a movie from the movie database
