@@ -4,6 +4,10 @@ A simple movie recommendation system built with Python, Pandas, Scikit-learn and
 
 The system recommends the top 5 movies similar to a selected movie using **TF-IDF Vectorization** and **Cosine Similarity**.
 
+# 🎬 Movie Recommendation System
+
+[🚀 Live Demo](https://movie-recommendation-system-as.streamlit.app/)
+
 ## 🚀 Features
 
 * Select a movie from the movie database
